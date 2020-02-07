@@ -1,0 +1,10 @@
+[
+  {
+    "model": "libraryapp.library",
+    "pk": 1,
+    "fields": {
+      "title": "Nashville Public Library",
+      "address": "301 Plus Park Blvd"
+    }
+  }
+]

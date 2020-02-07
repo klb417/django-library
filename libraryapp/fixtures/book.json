@@ -1,0 +1,38 @@
+[
+  {
+    "model": "libraryapp.book",
+    "pk": 1,
+    "fields": {
+      "title": "The Blade Itself",
+      "isbn": "1607512297",
+      "author": "Joe Abercrombie",
+      "year_published": "2007",
+      "location": 1,
+      "librarian": 1
+    }
+  },
+  {
+    "model": "libraryapp.book",
+    "pk": 2,
+    "fields": {
+      "title": "Before They Are Hanged",
+      "isbn": "0575091096",
+      "author": "Joe Abercrombie",
+      "year_published": "2007",
+      "location": 1,
+      "librarian": 1
+    }
+  },
+  {
+    "model": "libraryapp.book",
+    "pk": 3,
+    "fields": {
+      "title": "The Last Argument of Kings",
+      "isbn": "1607514427",
+      "author": "Joe Abercrombie",
+      "year_published": "2008",
+      "location": 1,
+      "librarian": 1
+    }
+  }
+]
