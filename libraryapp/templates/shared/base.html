@@ -5,19 +5,12 @@
 <head>
     <meta charset="utf-8">
     <title>Library</title>
+    
+    <link rel="stylesheet" href="{% static 'styles/base.css' %}" />
+    
+    {% block css %}
+    {% endblock %}
 
-    <style>
-        .navList {
-            list-style-type: none;
-            display: flex;
-            border: 1px solid lightgray;
-            padding: 1em;
-        }
-
-        .navList__route {
-            margin: 0 0.5em;
-        }
-    </style>
 </head>
 
 <body>
